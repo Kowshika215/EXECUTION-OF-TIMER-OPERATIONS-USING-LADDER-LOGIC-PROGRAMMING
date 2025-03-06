@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : Kowshika.R
+ #### REGISTER NUMBER :212224220049
+ #### DEPARTMENT :IT
+ #### YEAR :1
 
  
 # Aim:
@@ -82,18 +82,32 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+ON-DELAY timer
 
+![Screenshot 2025-02-28 154340](https://github.com/user-attachments/assets/7475bb4b-805f-4aa3-8889-1930f28f0231)
 
+![Screenshot 2025-02-28 154423](https://github.com/user-attachments/assets/de6e401e-9144-4de5-9491-3472672fa025)
 
+OFF-DELAY timer
 
+![Screenshot 2025-02-28 155707](https://github.com/user-attachments/assets/2bf2de02-d6ee-448c-a09d-97189221eea0)
 
+![Screenshot 2025-02-28 155733](https://github.com/user-attachments/assets/00a86cc9-702f-4ec5-9b6c-3c36eacc1a71)
 
+Real Life Examples-
 
+1.Develop wa ladder logic that leads sensory data from two sensors and initialise the timer and switch on the timer 5S of delay.
 
+![Screenshot 2025-03-06 161233](https://github.com/user-attachments/assets/e791706b-1de2-4378-998b-16c3fcea49fe)
 
+![Screenshot 2025-03-06 161248](https://github.com/user-attachments/assets/3d8e3c6a-0581-4417-aad7-df536909e178)
 
+2.Develop a ladder logic timer block to inialize the process of stamping where the operator is two hands to switch on the machine 
+the stamping duration starts after 5S. Select appropriate timer block.
 
+![Screenshot 2025-03-06 161604](https://github.com/user-attachments/assets/d3679371-885f-4ced-9d33-ca0cc6ccbf9a)
 
+![Screenshot 2025-03-06 161643](https://github.com/user-attachments/assets/0a804d3a-0b6c-41f6-a342-0a4c21849972)
 
 
 # Results:
